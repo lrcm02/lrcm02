@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I’m currently learning how to use Github
+Pronouns:he/him
+Fun fact: I live with a silly cat
 <!--
 **lrcm02/lrcm02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
